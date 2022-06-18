@@ -13,7 +13,7 @@
 </div>
 
 ## About Lusin 🖥️
-* **[💵 Currently making money with cryptocurrencies.]**
+* **💵 Currently making money with cryptocurrencies.**
 * **[⛰️ I am the greatest Minecraft animator of all-time.](https://youtu.be/d8P1SekkA3c)**
 * **[🏦 Worked for Goliath National Bank](https://www.youtube.com/watch?v=5_5eTTFxFTY)**
 
