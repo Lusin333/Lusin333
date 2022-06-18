@@ -10,6 +10,8 @@
   <a href="https://twitter.com/Lusin333">
     <img src="https://img.shields.io/twitter/follow/lusin333?logo=twitter&style=for-the-badge" alt="lusin333" />
   <a href="https://github.com/Lusin333">
+     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)" alt="lusin.333" />
+  <a href="https://tiktok.com/Lusin.333">
     <img src="https://img.shields.io/github/followers/Lusin333?style=for-the-badge" alt="lusin333" /></a> </p>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lusin333&label=Profile%20views&color=0e75b6&style=flat" alt="lusin333" /> </p>
