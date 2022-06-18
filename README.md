@@ -21,7 +21,7 @@ I was always a hacker, and my first ambition to become known was to go to Vancou
 
 So I had that passion to get somewhere and a passion to do something.  I did love graffiti and was always more into doing it than watching it.  When I found computers and creating Minecraft animations, however, it just took over. It’s non-stop now.
 
-* **💵 Currently making money with cryptocurrency.**
+* **[💵 Currently making money with cryptocurrency.](https://youtu.be/LW0PJlKOoXc)**
 * **[⛰️ I am the greatest Minecraft animator of all-time.](https://youtu.be/d8P1SekkA3c)**
 * **[🏦 Worked for Goliath National Bank.](https://www.youtube.com/watch?v=5_5eTTFxFTY)**
 * **[🤖 Now working for Allsafe Cybersecurity.](https://youtu.be/YyiZe2FAvdA?t=145)**
