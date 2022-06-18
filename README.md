@@ -1,4 +1,4 @@
-<h1 align="left">Lusin333 Github 🧥</h1>
+<h1 align="left">🎆 Welcome to Lusin333's Github Profile! 🎆</h1>
 
 <div id="badges">
   </a>
