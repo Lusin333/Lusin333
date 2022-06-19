@@ -26,6 +26,11 @@ So I had that passion to get somewhere and a passion to do something.  I did lov
 * **[🏦 Worked for Goliath National Bank.](https://www.youtube.com/watch?v=5_5eTTFxFTY)**
 * **[🤖 Now working for Allsafe Cybersecurity.](https://youtu.be/YyiZe2FAvdA?t=145)**
 
+<div>
+  <img src="instagram_posts/post_0/post.jpg" width="250" height="250"/>
+  <img src="instagram_posts/post_1/post.jpg" width="250" height="250"/>
+  <img src="instagram_posts/post_2/post.jpg" width="250" height="250"/>
+</div>
   
 ## <h2 align="left">Support Lusin333 ⚖️</h2>
 <p><a href="https://ko-fi.com/Lusin333"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=1" height="40" width="150" alt="Lusin333" /></a></p><br><br>
