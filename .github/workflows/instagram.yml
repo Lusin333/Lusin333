@@ -28,6 +28,6 @@ jobs:
           git pull origin main
           git add .
           git config --global user.email "sachinmalhotra1993@gmail.com"
-          git config --global user.name "edorado93"
+          git config --global user.name "Lusin.333"
           git commit -m "Updated intagram photos"
           git push origin main
