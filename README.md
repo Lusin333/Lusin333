@@ -27,9 +27,9 @@ So I had that passion to get somewhere and a passion to do something.  I did lov
 * **[🤖 Now working for Allsafe Cybersecurity.](https://youtu.be/YyiZe2FAvdA?t=145)**
 
 <div>
-  <img src="instagram_posts/post_0/post.jpg" width="250" height="250"/>
-  <img src="instagram_posts/post_1/post.jpg" width="250" height="250"/>
-  <img src="instagram_posts/post_2/post.jpg" width="250" height="250"/>
+  <img src="instagram_posts/post_0/post.jpg" width="220" height="220"/>
+  <img src="instagram_posts/post_1/post.jpg" width="220" height="220"/>
+  <img src="instagram_posts/post_2/post.jpg" width="220" height="220"/>
 </div>
 
   
