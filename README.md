@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lusin333&label=Profile%20views&color=0e75b6&style=flat" alt="lusin333" /> </p>
 
 ## About Lusin 🖥️
-I was always a hacker, and my first ambition to become known was to go to Vancouver, BC and write ***"Mohinder"*** everywhere.  I’d be out in Downtown Eastside writing ***"Mohinder"*** on every single Dairy Queen and McDonalds I walked past after it got dark at night.
+I was always a hacker, and my first ambition to become known was to go to Vancouver, BC and graffiti ***"Mohinder"*** everywhere.  I’d be out in Downtown Eastside writing ***"Mohinder"*** on every single Dairy Queen and McDonalds I walked past after it got dark at night.
 
 So I had that passion to get somewhere and a passion to do something.  I did love graffiti and was always more into doing it than watching it.  When I found computers and creating Minecraft animations, however, it just took over. It’s non-stop now.
 
