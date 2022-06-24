@@ -4,17 +4,21 @@
   </a>
   <a href="https://www.youtube.com/c/Lusin333?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCowWDa40-TC3xymPxEayKXg?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+    
   <a href="https://instagram.com/Lusin.333">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    
   <a href="https://twitter.com/Lusin333">
     <img src="https://img.shields.io/twitter/follow/lusin333?logo=twitter&style=for-the-badge" alt="lusin333" />
+    
   <a href="https://tiktok.com/@Lusin.333">
      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)" alt="lusin.333" />
+     
   <a href="https://Github.com/Lusin333">
-    <img src="https://img.shields.io/github/followers/Lusin333?style=for-the-badge" alt="lusin333" /></a> </p>
+    <img src="https://img.shields.io/github/followers/Lusin333?style=for-the-badge" alt="lusin333" />
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=lusin333&label=Profile%20views&color=0e75b6&style=flat" alt="lusin333" /> </a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lusin333&label=Profile%20views&color=0e75b6&style=flat" alt="lusin333" /> </p>
+
 
 ## About Lusin 🖥️
 I was always a hacker, and my first ambition to become known was to go to Vancouver, BC and graffiti ***"Mohinder"*** everywhere.  I’d be out in Downtown Eastside writing ***"Mohinder"*** on every single Dairy Queen and McDonalds I walked past after it got dark at night.
