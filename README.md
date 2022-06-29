@@ -30,6 +30,7 @@ So I had that passion to get somewhere and a passion to do something.  I did lov
 * **[🏦 Worked for Goliath National Bank.](https://www.youtube.com/watch?v=5_5eTTFxFTY)**
 * **[🤖 Now working for Allsafe Cybersecurity.](https://youtu.be/YyiZe2FAvdA?t=145)**
 
+## Lusin333's Latest Youtube Videos 📺
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [This Is the Greatest Nightclub in the History of Minecraft! 4k #Shorts](https://www.youtube.com/watch?v=lPe7D9zg1iE)
 - [NVIDIA Aorus RTX 3070 Graphics Card Unboxing](https://www.youtube.com/watch?v=xXSkdEX9ccI)
