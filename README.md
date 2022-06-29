@@ -20,7 +20,7 @@
 </div>
 
 
-## About Lusin 🖥️
+## 🖥️ About Lusin
 I was always a hacker, and my first ambition to become known was to go to Vancouver, BC and graffiti ***"Mohinder"*** everywhere.  I’d be out in Downtown Eastside writing ***"Mohinder"*** on every single Dairy Queen and McDonalds I walked past after it got dark at night.
 
 So I had that passion to get somewhere and a passion to do something.  I did love graffiti and was always more into doing it than watching it.  When I found computers and creating Minecraft animations, however, it just took over. It’s non-stop now.
@@ -30,7 +30,7 @@ So I had that passion to get somewhere and a passion to do something.  I did lov
 * **[🏦 Worked for Goliath National Bank.](https://www.youtube.com/watch?v=5_5eTTFxFTY)**
 * **[🤖 Now working for Allsafe Cybersecurity.](https://youtu.be/YyiZe2FAvdA?t=145)**
 
-## Lusin333's Latest Youtube Videos 📺
+## 📺 Lusin333's Latest Youtube Videos 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [This Is the Greatest Nightclub in the History of Minecraft! 4k #Shorts](https://www.youtube.com/watch?v=lPe7D9zg1iE)
 - [NVIDIA Aorus RTX 3070 Graphics Card Unboxing](https://www.youtube.com/watch?v=xXSkdEX9ccI)
@@ -40,7 +40,7 @@ So I had that passion to get somewhere and a passion to do something.  I did lov
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
-## <h2 align="left">Support Lusin333 ⚖️</h2>
+## <h2 align="left">⚖️ Support Lusin333</h2>
 <p><a href="https://ko-fi.com/Lusin333"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=1" height="40" width="150" alt="Lusin333" /></a></p><br><br>
 
 ## <h2 align="left">Lusin333 Stats 🧮</h2>
