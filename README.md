@@ -11,7 +11,7 @@
   <a href="https://twitter.com/Lusin333">
     <img src="https://img.shields.io/twitter/follow/lusin333?logo=twitter&style=for-the-badge" alt="lusin333" />
     
-  <a href="https://tiktok.com/@Lusin.333">
+  <a href="https://tiktok.com/@lusin.333">
      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)" alt="lusin.333" />
      
   <a href="https://Github.com/Lusin333">
