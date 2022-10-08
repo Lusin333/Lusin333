@@ -23,7 +23,7 @@
 ## 🤿 About Lusin
 I was always a hacker, and my first ambition to become known as a famous hacker was to go to Vancouver, BC and graffiti ***"Mohinder"*** everywhere.  I’d be out in Downtown Eastside writing ***"Mohinder"*** on every single Dairy Queen and McDonalds I walked past after it got dark at night.
 
-So I had that passion to get somewhere and a passion to do something.  I did love graffiti and was always more into doing it than watching it.  When I found computers and creating Minecraft animations, however, it just took over. It’s non-stop now.
+So I had that passion to get somewhere and a passion to do something.  I make Minecraft animations and music.  It's non-stop now.
 
 * **[💵 Currently making money with cryptocurrency.](https://youtu.be/LW0PJlKOoXc)**
 * **[⛰️ I am the greatest Minecraft animator of all-time.](https://youtu.be/d8P1SekkA3c)**
