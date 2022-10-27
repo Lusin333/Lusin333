@@ -32,11 +32,11 @@ So I had that passion to get somewhere and a passion to do something.  I make Mi
 
 ## 📺 Lusin333's Latest Youtube Videos 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Minecraft Clock 8k 60fps](https://www.youtube.com/watch?v=1F32ajmdFe8)
 - [This is the Greatest Nightclub in the History of Minecraft! 4k #Shorts](https://www.youtube.com/watch?v=lPe7D9zg1iE)
 - [NVIDIA Aorus RTX 3070 Graphics Card Unboxing](https://www.youtube.com/watch?v=xXSkdEX9ccI)
 - [Custom PC Build - Ryzen 5800x &amp; RTX 3070 - Timelapse](https://www.youtube.com/watch?v=FV2PwSDD-uQ)
 - [COVID-19 Quarantine in Minecraft &lpar;8k 60fps Minecraft Animation&rpar;](https://www.youtube.com/watch?v=d8P1SekkA3c)
-- [Minecraft: During Covid-19 Quarantine Trailer [8k 60fps]](https://www.youtube.com/watch?v=uFHi8C8NsMQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
