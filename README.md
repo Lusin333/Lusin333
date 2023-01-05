@@ -25,7 +25,7 @@ Lusin333 is a famous hacker from Albuquerque, New Mexico whose most famous proje
 
 Lusin333's "Mohinder" project in Vancouver, BC angered the local politicians and RCMP.  Lusin333 was eventually caught because Lusin333 kept graffiting the same Dairy Queen everyday for 3 months, but was released with no charges due to public backlash (Vancouver, BC residents are very vocal about supporting their artists) and also because Lusin333 gave them a fake name.
     
-Nowadays, Lusin333 creates helpful computer apps always made available for free.  See Lusin333's youtube channel for any other projects she's made.
+Nowadays, Lusin333 creates helpful computer apps always made available for free.  See [Lusin333's youtube channel](https://www.youtube.com/c/Lusin333?sub_confirmation=1) for any other projects she's made.
 
 * **[💵 Currently making money with cryptocurrency.](https://youtu.be/LW0PJlKOoXc)**
 * **[⛰️ I am the greatest Minecraft animator of all-time.](https://youtu.be/d8P1SekkA3c)**
