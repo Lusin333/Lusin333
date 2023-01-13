@@ -46,7 +46,3 @@ Nowadays, Lusin333 creates helpful computer apps always made available for free.
 ## <h2 align="left">⚖️ Support Lusin333</h2>
 <p><a href="https://ko-fi.com/Lusin333"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=1" height="40" width="150" alt="Lusin333" /></a></p><br><br>
 
-## <h2 align="left">Lusin333 Stats 🧮</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lusin333&show_icons=true&locale=en" alt="lusin333" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lusin333" alt="lusin333" /></a> </p>
