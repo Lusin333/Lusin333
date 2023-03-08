@@ -35,11 +35,11 @@ Nowadays, Lusin333 creates helpful computer apps always made available for free.
 
 ## 📺 Lusin333's Latest Youtube Videos 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Frog Eating Adventure - Minecraft Animation 8k 60fps #minecraft #minecraftanimation #youtubeshorts](https://www.youtube.com/watch?v=OffJ0jiaT-s)
 - [Showing Off 1.6TB of DDR4 RAM #ddr4 #ddr5 #ddr3 #techmemes #techmeme #techgang #linustechtips #vlog](https://www.youtube.com/watch?v=wBMwKz5XHgA)
 - [2 ipads = Double Productivity!!! #apple #ipad #appleipad #techmemes #appleproduct #vlog #vlogs #tech](https://www.youtube.com/watch?v=xCu1O1iiEu8)
 - [Curious Otter - Minecraft Animation 8k 60fps #minecraft #minecraftanimation #minecraftmemes #otter](https://www.youtube.com/watch?v=tOKivgz__YE)
 - [Impressing You With My Huawei GR5 Phone. Now Leave Me Alone. #huawei #myphone #showingoff #tech](https://www.youtube.com/watch?v=TpnOx6I2H4k)
-- [Minecraft Digital Clock #minecraft #minecraftanimation #666 #minecraftmemes #minecraftshorts #rolex](https://www.youtube.com/watch?v=XNjy9Pgp0t0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
