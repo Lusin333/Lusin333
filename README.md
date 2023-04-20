@@ -35,11 +35,11 @@ Nowadays, Lusin333 creates helpful computer apps always made available for free.
 
 ## 📺 Lusin333's Latest Youtube Videos 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I Am Carrying Some Bud Light #budlight #anheuserbusch #beer #drink #budweiser #drinks #drinking](https://www.youtube.com/watch?v=MzuoZevjQbY)
 - [Budweiser Zero Prohibition Brew - Soda Review](https://www.youtube.com/watch?v=CQXnKHn3udg)
 - [Frog Eating Adventure - Minecraft Animation 8k 60fps](https://www.youtube.com/watch?v=xKb1Q9o2LJ0)
 - [Frog Eating Adventure - Minecraft Animation 8k 60fps #minecraft #minecraftanimation #youtubeshorts](https://www.youtube.com/watch?v=OffJ0jiaT-s)
 - [Showing Off 1.6TB of DDR4 RAM #ddr4 #ddr5 #ddr3 #techmemes #techmeme #techgang #linustechtips #vlog](https://www.youtube.com/watch?v=wBMwKz5XHgA)
-- [2 ipads = Double Productivity!!! #apple #ipad #appleipad #techmemes #appleproduct #vlog #vlogs #tech](https://www.youtube.com/watch?v=xCu1O1iiEu8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
