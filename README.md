@@ -19,7 +19,7 @@
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=lusin333&label=Profile%20views&color=0e75b6&style=flat" alt="lusin333" /> </a>
 </div>
 
-## 🤿 About Lusin
+## 🤿 About Lusin333
 Lusin333 is a famous hacker from Albuquerque, New Mexico whose most famous project was going to Vancouver, BC to graffiti ***"Mohinder1"*** everywhere.  Lusin333 would be in Vancouver's Downtown Eastside writing ***"Mohinder"*** on every single house, Dairy Queen, McDonalds, etc... after it got dark at night.
 
 Lusin333's ***"Mohinder"*** project in Vancouver, BC angered the local politicians and RCMP.  Lusin333 was eventually caught because Lusin333 kept graffiting the same Dairy Queen everyday for 3 months, but was released with no charges due to public backlash *(Vancouver, BC residents are very vocal about supporting their artists)* and also because Lusin333 gave them a fake name.
