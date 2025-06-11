@@ -35,11 +35,11 @@ Nowadays, Lusin333 creates helpful computer apps always made available for free.
 
 ## 📺 Lusin333's Latest Youtube Videos 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Minecraft Springtime Jam - Animation Cinemagraph](https://www.youtube.com/shorts/_r37DIl5BGY)
-- [Minecraft Planting Season - Animation Cinemagraph](https://www.youtube.com/shorts/igtUJwDh1Yw)
+- [Minecraft Springtime Jam - Animation Cinemagraph](https://www.youtube.com/watch?v=_r37DIl5BGY)
+- [Minecraft Planting Season - Animation Cinemagraph](https://www.youtube.com/watch?v=igtUJwDh1Yw)
 - [Vivo X90 Pro Phone Unboxing](https://www.youtube.com/watch?v=AMGRmJBxxgk)
-- [Minecraft Snowy Tundra Title Screen &lpar;Mobile Phone Bedrock Edition&rpar; 8k 60fps Animation](https://www.youtube.com/shorts/AUrnAJL9yTE)
-- [Delkin Devices CFexpress Type B USB 3.2 Memory Card Reader Unboxing](https://www.youtube.com/shorts/7bVy_81mHIA)
+- [Minecraft Snowy Tundra Title Screen &lpar;Mobile Phone Bedrock Edition&rpar; 8k 60fps Animation](https://www.youtube.com/watch?v=AUrnAJL9yTE)
+- [Delkin Devices CFexpress Type B USB 3.2 Memory Card Reader Unboxing](https://www.youtube.com/watch?v=7bVy_81mHIA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
