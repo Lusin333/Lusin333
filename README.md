@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Youtube-Lusin333-red" alt="Youtube Badge"/>
     
   <a href="https://instagram.com/Lusin.333">
-    <img src="https://img.shields.io/badge/Instagram-Lusin.333-pink" />
+    <img src="https://img.shields.io/instagram/Instagram-Lusin.333-pink" />
     
   <a href="https://x.com/Lusin333">
     <img src="https://img.shields.io/badge/X-Lusin333-black" alt="lusin333" />
