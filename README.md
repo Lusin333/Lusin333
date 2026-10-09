@@ -8,8 +8,8 @@
   <a href="https://instagram.com/Lusin.333">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     
-  <a href="https://twitter.com/Lusin333">
-    <img src="https://img.shields.io/twitter/follow/lusin333?logo=twitter&style=for-the-badge" alt="lusin333" />
+  <a href="https://x.com/Lusin333">
+    <img src="https://img.shields.io/x/follow/lusin333?logo=twitter&style=for-the-badge" alt="lusin333" />
     
   <a href="https://tiktok.com/@lusin.333">
      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)" alt="lusin.333" />
