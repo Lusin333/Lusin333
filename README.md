@@ -3,16 +3,16 @@
 <div id="badges">
   </a>
   <a href="https://www.youtube.com/c/Lusin333?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCowWDa40-TC3xymPxEayKXg?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Youtube-Lusin333-blue" alt="Youtube Badge"/>
     
   <a href="https://instagram.com/Lusin.333">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-Lusin.333-blue" />
     
   <a href="https://x.com/Lusin333">
-    <img src="https://img.shields.io/x/follow/lusin333?logo=twitter&style=for-the-badge" alt="lusin333" />
+    <img src="https://img.shields.io/badge/X-Lusin333-blue" alt="lusin333" />
     
   <a href="https://tiktok.com/@lusin.333">
-     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)" alt="lusin.333" />
+     <img src="https://img.shields.io/badge/TikTok-Lusin.333-blue" alt="lusin.333" />
      
   <a href="https://Github.com/Lusin333">
     <img src="https://img.shields.io/github/followers/Lusin333?style=for-the-badge" alt="lusin333" />
