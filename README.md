@@ -15,7 +15,8 @@
      <img src="(https://img.shields.io/badge/TikTok-Lusin.333-black?logo=tiktok&logoColor=white)](#)" />
      
   <a href="https://Github.com/Lusin333">
-    <img src="https://img.shields.io/badge/Lusin333-%23000000.svg?logo=X&logoColor=white)](#)" /> </a>
+    <img src="https://img.shields.io/badge/Lusin333-%23000000.svg?logo=X&logoColor=white)](#)" />
+  </a>
 </div>
 
 ## 🤿 About Lusin333
