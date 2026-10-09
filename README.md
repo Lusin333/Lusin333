@@ -2,20 +2,20 @@
 
 <div id="badges">
   </a>
-  <a href="https://www.youtube.com/c/Lusin333?sub_confirmation=1">
+<a href="https://www.youtube.com/c/Lusin333?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-Lusin333-%23FF0000.svg?logo=YouTube&logoColor=white"/>
     
   <a href="https://instagram.com/Lusin.333">
-    <img src="https://img.shields.io/badge/Instagram-Lusin.333-%23E4405F.svg?logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Lusin.333-%23E4405F.svg?logo=Instagram&logoColor=white)](#)" />
     
   <a href="https://x.com/Lusin333">
-    <img src="https://img.shields.io/badge/X-Lusin333-black" alt="lusin333" />
+    <img src="https://img.shields.io/badge/Lusin333-%23000000.svg?logo=X" />
     
   <a href="https://tiktok.com/@lusin.333">
-     <img src="(https://img.shields.io/badge/TikTok-Lusin.333-black?logo=tiktok&logoColor=white" />
+     <img src="https://img.shields.io/badge/Lusin.333-black?logo=tiktok" />
      
   <a href="https://Github.com/Lusin333">
-    <img src="https://img.shields.io/badge/Lusin333-%23000000.svg?logo=X&logoColor=white" />  </a>
+    <img src="https://img.shields.io/github/followers/Lusin333" alt="lusin333" />  </a>
 </div>
 
 ## 🤿 About Lusin333
