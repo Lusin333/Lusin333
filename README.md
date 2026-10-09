@@ -3,7 +3,7 @@
 <div id="badges">
   </a>
   <a href="https://www.youtube.com/c/Lusin333?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white-Lusin333" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-Lusin333-%23FF0000.svg?logo=YouTube&logoColor=white"/>
     
   <a href="https://instagram.com/Lusin.333">
     <img src="https://img.shields.io/badge/Instagram-Lusin333-E4405F?style=flat-square&logo=Instagram&logoColor=white-Lusin333" />
