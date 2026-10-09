@@ -6,16 +6,16 @@
     <img src="https://img.shields.io/badge/YouTube-Lusin333-%23FF0000.svg?logo=YouTube&logoColor=white"/>
     
   <a href="https://instagram.com/Lusin.333">
-    <img src="https://img.shields.io/badge/Instagram-Lusin333-E4405F?style=flat-square&logo=Instagram&logoColor=white-Lusin333" />
+    <img src="https://img.shields.io/badge/Instagram-Lusin.333-%23E4405F.svg?logo=Instagram&logoColor=white)](#)" />
     
   <a href="https://x.com/Lusin333">
     <img src="https://img.shields.io/badge/X-Lusin333-black" alt="lusin333" />
     
   <a href="https://tiktok.com/@lusin.333">
-     <img src="https://img.shields.io/badge/TikTok-Lusin.333-black" alt="lusin.333" />
+     <img src="(https://img.shields.io/badge/TikTok-Lusin.333-black?logo=tiktok&logoColor=white)](#)" />
      
   <a href="https://Github.com/Lusin333">
-    <img src="https://img.shields.io/github/followers/Lusin333?" alt="lusin333" /> </a>
+    <img src="https://img.shields.io/badge/Lusin333-%23000000.svg?logo=X&logoColor=white)](#)" /> </a>
 </div>
 
 ## 🤿 About Lusin333
